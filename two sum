@@ -1,3 +1,0 @@
-first = float(input("First: ")
-second = float(input(second: ")
-print =(first + second)
