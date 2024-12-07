@@ -51,7 +51,6 @@ while True:
     break
   print('Digite um valor entre 1 e 2')
 
-
 mensagens = []
 while True:
   pergunta = input('Usuario: ')
